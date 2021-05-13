@@ -2,7 +2,7 @@
 
 I'm FullStack developer and Pentester.
 
-- 🔭 &nbsp; Currently working as an intern at the <a href="https://www.bnb.gov.br/">BNB</a>.
+- 🔭 &nbsp; Currently working at <a href="http://www.ffit.com.br/">FFIT - Inovação e Tecnologia</a>.
 - 🎓 &nbsp; Undergraduate of **COMPUTER SCIENCE** from <a href="http://www.uece.br/">UECE - Ceará State University</a>.
 - ⚡ &nbsp; Co-founder of a static informative project called [**InfoseCE**](https://infosece.github.io/ "InfoseCE") to share a little knowledge about PentTest and used tools.
 
