@@ -1,4 +1,4 @@
-### Hi there <img src="./assets/hi.gif" width="28px">, My name is Eduardo Bernardino <img src="./assets/among.gif" width="50px">
+### Hi there, my name is Eduardo Bernardino.
 
 I'm FullStack developer and Pentester.
 
