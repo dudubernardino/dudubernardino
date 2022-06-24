@@ -1,6 +1,6 @@
 ### Hi there, my name is Eduardo Bernardino.
 
-I'm FullStack developer and Pentester.
+I'm FullStack developer.
 
 - 🔭 &nbsp; Currently working at <a href="https://inbolso.online/">inBolso</a>.
 - 🎓 &nbsp; Undergraduate of **COMPUTER SCIENCE** from <a href="http://www.uece.br/">UECE - Ceará State University</a>.
