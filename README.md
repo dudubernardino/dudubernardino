@@ -31,10 +31,10 @@ I'm FullStack developer.
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <a href="https://github.com/dudubernardino/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dudubernardino&theme=radical" alt="dudubernardino github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dudubernardino&theme=radical" alt="dudubernardino github stats"/>
   </a>
   <a href="https://github.com/dudubernardino/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudubernardino&hide=html&layout=compact&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudubernardino&hide=html&layout=compact&theme=radical" />
   </a>
 </div>
 
@@ -44,3 +44,5 @@ I'm FullStack developer.
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:eduardomoura.moura@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-0e76a8?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/davozard)](https://t.me/dudubernardino)
 [![GitHub Eduardo Bernardino](https://img.shields.io/github/followers/dudubernardino?label=follow&style=social)](https://github.com/dudubernardino/)
+
+![snake gif](https://github.com/dudubernardino/dudubernardino/blob/output/github-contribution-grid-snake.gif)
