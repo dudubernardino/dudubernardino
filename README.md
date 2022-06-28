@@ -29,10 +29,11 @@ I'm FullStack developer.
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div align="center" >
   <a href="https://github.com/dudubernardino/">
-  <img src="https://github-readme-stats.vercel.app/api?username=dudubernardino&theme=radical" alt="dudubernardino github stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudubernardino&hide=html&layout=compact&theme=radical" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dudubernardino&theme=radical" alt="dudubernardino github stats"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudubernardino&hide=html&layout=compact&theme=radical" />
+  </a>
 </div>
 
 <h3> &nbsp;Contact me </h3>
@@ -42,4 +43,8 @@ I'm FullStack developer.
 [![Telegram](https://img.shields.io/badge/-Telegram-0e76a8?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/davozard)](https://t.me/dudubernardino)
 [![GitHub Eduardo Bernardino](https://img.shields.io/github/followers/dudubernardino?label=follow&style=social)](https://github.com/dudubernardino/)
 
-![snake gif](https://github.com/dudubernardino/dudubernardino/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
