@@ -29,12 +29,14 @@ I'm FullStack developer.
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<a href="https://github.com/dudubernardino/">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=dudubernardino&theme=radical" alt="dudubernardino github stats"/>
-</a>
-<a href="https://github.com/dudubernardino/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudubernardino&hide=html&layout=compact&theme=radical" />
-</a>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <a href="https://github.com/dudubernardino/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dudubernardino&theme=radical" alt="dudubernardino github stats"/>
+  </a>
+  <a href="https://github.com/dudubernardino/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudubernardino&hide=html&layout=compact&theme=radical" />
+  </a>
+</div>
 
 <h3> &nbsp;Contact me </h3>
 
