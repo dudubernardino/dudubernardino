@@ -32,10 +32,7 @@ I'm FullStack developer.
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <a href="https://github.com/dudubernardino/">
   <img src="https://github-readme-stats.vercel.app/api?username=dudubernardino&theme=radical" alt="dudubernardino github stats"/>
-  </a>
-  <a href="https://github.com/dudubernardino/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudubernardino&hide=html&layout=compact&theme=radical" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudubernardino&hide=html&layout=compact&theme=radical" />
 </div>
 
 <h3> &nbsp;Contact me </h3>
