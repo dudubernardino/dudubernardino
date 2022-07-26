@@ -45,6 +45,6 @@ I'm FullStack developer.
 
 <div align="center">
   
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/dudubernardino/dudubernardino/blob/output/github-contribution-grid-snake-dark.svg)
   
 </div>
