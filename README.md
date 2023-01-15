@@ -31,8 +31,8 @@ I'm FullStack developer.
 
 <div align="center" >
   <a href="https://github.com/dudubernardino/">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dudubernardino&theme=radical" alt="dudubernardino github stats"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudubernardino&hide=html&layout=compact&theme=radical" />
+    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dudubernardino&theme=radical" alt="dudubernardino github stats"/>
+    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dudubernardino&hide=html&layout=compact&theme=radical" />
   </a>
 </div>
 
