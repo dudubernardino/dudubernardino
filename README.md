@@ -3,7 +3,7 @@
 I'm FullStack developer.
 
 - 🔭 &nbsp; Currently working at <a href="https://iniciador.com.br/">Iniciador</a>.
-- 🎓 &nbsp; Undergraduate of **COMPUTER SCIENCE** from <a href="http://www.uece.br/">UECE - Ceará State University</a>.
+- 🎓 &nbsp; B.Sc. in **Computer Science** from <a href="http://www.uece.br/">UECE - Ceará State University</a>.
 - ⚡ &nbsp; Co-founder of a static informative project called [**InfoseCE**](https://infosece.github.io/ "InfoseCE") to share a little knowledge about PentTest and used tools.
 
 <h3>&nbsp;Languages and tools </h3>
